@@ -1,0 +1,112 @@
+ 1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  sudo su
+    6  cd /dev
+    7  ls sd*
+    8  fdisk
+    9  fdisk sda
+   10  sudo fdisk sda
+   11  fdisk sdb
+   12  sudo fdisk sdb
+   13  lsbdk
+   14  ls sd*
+   15  mkfs sdb1
+   16  sudo fdisk sdb
+   17  ls dbk
+   18  lsdbk
+   19  ls sd*
+   20  lsblk
+   21  mkfs
+   22  mkfs sdb1
+   23  sudo mkfs sdb1
+   24  mount
+   25  cd ..
+   26  cd
+   27  mkdir DiscoUno
+   28  cd DiscoUno
+   29  mount
+   30  ls /dev
+   31  mount ./dev/sdb1
+   32  ls .
+   33  mount ../dev/sdb1
+   34  ls ..
+   35  cd
+   36  cd /dev
+   37  cd
+   38  cd DiscoUno
+   39  mount ../dev/sdb1
+   40  ls
+   41  ls ../dev
+   42  cd ..
+   43  ls /dev
+   44  cd DiscoUno
+   45  mount ../dev/sdb1
+   46  sudo mount ../dev/sdb1
+   47  cd
+   48  cd /dev
+   49  sudo mount ../DiscoUno
+   50  sudo mount sdb1 ../DiscoUno
+   51  sudo mount sdb1 /home/alumno/DiscoUno/
+   52  cd
+   53  history >> historial1.txt
+
+
+---------------------------------------------------------
+
+
+
+ 1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  sudo su
+    6  cd /dev
+    7  ls sd*
+    8  fdisk
+    9  fdisk sda
+   10  sudo fdisk sda
+   11  fdisk sdb
+   12  sudo fdisk sdb
+   13  lsbdk
+   14  ls sd*
+   15  mkfs sdb1
+   16  sudo fdisk sdb
+   17  ls dbk
+   18  lsdbk
+   19  ls sd*
+   20  lsblk
+   21  mkfs
+   22  mkfs sdb1
+   23  sudo mkfs sdb1
+   24  mount
+   25  cd ..
+   26  cd
+   27  mkdir DiscoUno
+   28  cd DiscoUno
+   29  mount
+   30  ls /dev
+   31  mount ./dev/sdb1
+   32  ls .
+   33  mount ../dev/sdb1
+   34  ls ..
+   35  cd
+   36  cd /dev
+   37  cd
+   38  cd DiscoUno
+   39  mount ../dev/sdb1
+   40  ls
+   41  ls ../dev
+   42  cd ..
+   43  ls /dev
+   44  cd DiscoUno
+   45  mount ../dev/sdb1
+   46  sudo mount ../dev/sdb1
+   47  cd
+   48  cd /dev
+   49  sudo mount ../DiscoUno
+   50  sudo mount sdb1 ../DiscoUno
+   51  sudo mount sdb1 /home/alumno/DiscoUno/
+   52  cd
+   53  history >> historial1.txt
